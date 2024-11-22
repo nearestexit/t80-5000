@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "g80-5000")(type "KiCad")(uri "F:/Documents/Keyboards/gh80-5000/g80-5000.kicad_sym")(options "")(descr ""))
+)
