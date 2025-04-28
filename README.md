@@ -83,8 +83,15 @@ When I ordered the V0.1 prototype on 11/8/2024, The total price was $207.63 tota
 - Spring (optional) - An image displaying the approximate measurements of the original spring is included in the documentation folder. I used [these](https://www.amazon.com/dp/B0BRHF1DBL) springs.
 
 ## Firmware
-- This keyboard is not yet added to the main QMK repository.
-- QMK source files are included in the firmware folder for you to use with your own QMK build environment.
+- [Vial-QMK](https://get.vial.today/) .uf2 files are provided in the firmware folder.
+- To put the keyboard into bootloader mode to flash the firmware:
+1. Unplug the USB cable
+2. Short the BOOT pins with a pair of tweezers
+3. Plug the USB cable in
+4. Stop shorting the BOOT pins.
+- The RP2040 will then be loaded onto your computer as a USB storage device. Drag in the .uf2 firmware file, and it will reboot.
+- The boot pins can be found on the Left side by removing the 1 key, the Right side by removing the 0 key, and the Numpad by removing the * key.
+- Once you have flashed the firmware, you can change the keymap from [vial.rocks](https://vial.rocks)
 
 ## Other Important Notes
 - The components are soldered on to the bottom of this PCB. If you are not careful when putting the keyboard together, you can knock components off the PCB.
