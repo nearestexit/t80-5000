@@ -1,6 +1,6 @@
 # T80-5000 & T80-5700
 
-[QMK](https://github.com/qmk/qmk_firmware) Compatible Open Hardware USB-C PCBs for the vintage [Cherry G80-5000](https://deskthority.net/wiki/Cherry_G80-5000) split ergonomic keyboard and its companion numpad, the G80-5700.
+[QMK](https://github.com/qmk/qmk_firmware) Compatible Open Hardware USB-C PCBs for the vintage [Cherry G80-5000](https://web.archive.org/web/20250114051116/https://deskthority.net/wiki/Cherry_G80-5000) split ergonomic keyboard and its companion numpad, the G80-5700.
 
 
 
