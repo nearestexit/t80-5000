@@ -54,7 +54,7 @@ Production files are included for production at [JLCPCB](https://jlcpcb.com/).
 7. Make sure Min via hole size/diameter is set to "0.3mm"
 8. For "Mark on PCB" select "Order Number (Specify Position)"
 9. Turn the "PCB Assembly" option on
-10. Make sure PCBA type is set to "standard"
+10. Make sure PCBA type is set to "Economic"
 11. For "Assembly side", if you are ordering the daughterboard select "top side", otherwise select "bottom side"
 12. Click "next", and then "next" again
 13. Click "Add BOM File" and select the BOM csv - for example, BOM-T80-5000-left.csv
